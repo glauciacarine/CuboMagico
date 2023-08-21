@@ -1,0 +1,61 @@
+Cubo Mágico 3x3
+
+1º Passo: Fazer uma cruz branca com centro amarelo
+2º Passo: Finalizar a cruz, girando a peça com borda vermelha, azul, verde e laranja até formar a cruz 100% branca.
+3º Passo: Finalizar primeira camada
+4º Passo: Finalizar segunda camada
+
+
+5º Passo: Cruz amarela
+- Face: H
+- Direita: H
+- Topo: H
+- Direita: AH
+- Topo: AH
+- Face: AH
+
+------------------------------------------------------------------------------
+
+6º Passo: Face amarela
+-> Com 4 quinas faltando (2 para a esquerda, 1 para a face e 1 para trás):
+ - Direita: H
+ - Topo: H
+ - Direita: AH
+ - Topo: H
+ - Direita: H
+ - Topo duplo
+ - Direita: AH
+
+--> Com 3 quinas faltando (Posiciona o "peixinho" e repete a fórmula anterior)
+
+------------------------------------------------------------------------------
+
+7º Passo: Finalizar as quinas
+- Procura por duas quinas da mesma cor
+- Deixa as quinas na base e deixa o amarelo na face
+- Direita: H
+- Topo: AH
+- Direita: H
+- Base duplo (Vai surgir L)
+- Direita: AH
+- Topo: H
+- Direita: H (Vai surgir L)
+- Base duplo
+- Direito duplo
+
+------------------------------------------------------------------------------
+
+8º Passo: Finalizar os meios
+--> Quando todos os meios estiverem errados
+--> Quando houver um lado certo
+- Deixar o lado certo para a face oposta
+- Giro duplo na face
+- Ver onde está a cor faltante e trazer para a frente
+- Desce brancas
+- Desce amarelas
+- Giro duplo para inverter
+- Sobe branco
+- Sobe amarelo
+- Giros finais para terminar 
+
+------------------------------------------------------------------------------
